@@ -2,9 +2,10 @@
   "name": "travis-ci-demo",
   "version": "1.0.0",
   "scripts": {
-    "test": "jshint hello.js"
+    "test": "eslint hello.js"
   },
   "devDependencies": {
+    "eslint": "^4.7.2",
     "jshint": "^2.8.0"
   }
 }
