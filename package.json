@@ -5,6 +5,7 @@
     "test": "eslint hello.js"
   },
   "devDependencies": {
+    "codecov": "^2.3.0",
     "eslint": "^4.7.2",
     "jshint": "^2.8.0"
   }
